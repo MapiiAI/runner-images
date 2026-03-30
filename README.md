@@ -9,6 +9,7 @@
 - [Image Releases](#image-releases)
 - [Software and Image Support](#software-and-image-support)
 - [How to Interact with the Repo](#how-to-interact-with-the-repo)
+- [Privacy](#privacy)
 - [FAQs](#faqs)
 
 ## About
@@ -167,6 +168,10 @@ In general, these are the guidelines we follow when deciding what to pre-install
 - **Issues**: To file a bug report, or request tools to be added/updated, please [open an issue using the appropriate template](https://github.com/actions/runner-images/issues/new/choose)
 - **Discussions**: If you want to share your thoughts about image configuration, installed software, or bring a new idea, please create a [new discussion](https://github.com/orgs/community/discussions/new?category=actions). Before making a new discussion, please make sure no similar topics were created earlier in the [actions category](https://github.com/orgs/community/discussions/categories/actions).
 - For general questions about using the runner images or writing your Actions workflow, please open requests in the [GitHub Community discussion Actions category](https://github.com/orgs/community/discussions/categories/actions).
+
+## Privacy
+
+Use of GitHub-hosted runners is subject to the [GitHub General Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). The Privacy Statement describes how GitHub collects, uses, and shares your Personal Data, including data that may be processed when workflows run on GitHub-hosted runners.
 
 ## FAQs
 
